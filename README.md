@@ -1,6 +1,5 @@
-![](https://user-images.githubusercontent.com/54871018/94060474-0817b980-fdb2-11ea-97a3-3f6fe61d3926.png)
-# Natours  
-#### Curso Udemy Advanced CSS and Sass: Flexbox, Grid, Animations and More!!!
-_Projeto site Natours_
+![logo-green-1x](https://user-images.githubusercontent.com/54871018/94061722-c1c35a00-fdb3-11ea-931b-681d4c564af5.png)
+# Projeto site Natours  
+## Curso Udemy Advanced CSS and Sass: Flexbox, Grid, Animations and More! 
 
-Veja o site aqui: [link]
+_Veja o site aqui: [link]_
